@@ -1,0 +1,42 @@
+#this notes are mine for  revision purpose
+
+TENSORFLOW
+-constant
+-placeholder (runtime pe input de sakkte haai)
+-variables
+-it is python supported framework but made in c++
+-made in 2015 by google brain team
+
+tensorflow uses-
+1.neural network
+2.image classification
+3.maths calculation
+we can use it in classifictaion and regression both
+dendrite >input
+neuron >storage
+axon->ek neuron se dusre neuron jo bhejega vo hai
+a network of many neurons-->mind(can say)
+no sql works on clustering which is nn
+neuron-->neural that's why neural network
+known as artificial neural network..((ANN))
+node can be cpu or gpu or tppu etc.
+input->attribute/features-->processing--->o/p
+
+1.)how many layers mean i/p layer .........output is not a layer..any layer can any no of neuron..
+2.)each hidden layer process using a mathe eqn(known as activation function)
+3.)in input layer no o fneurons should be equal to no of attribute(jyada diye to?)
+4.) we will decide that each neron in ip layer should be connected to each neuron in hidden layer or not..
+5.)no rule to put any act funnc first
+6.)4 type are enough activ func 
+7.)If ann has more than 2 layers than it is knwon as deep nn
+8.)cost func ->actual o/p se general o/p ka error compare  karega (formula in pdf)
+9.)geoffrey hinton
+10.i. sigmoid ii. threshhold iii..rectifier iv.. hyperbolic tangent
+11.)generally neurons in hidden layer is average of input layer 12--->6
+12.)weight -->actual no me multiply so that negligible change is done
+13.)what will neural netwrk do as  o/p me koi error aai to wieghts ko change karega and is known as back propogation
+14.)comapre kon karega(o/p ayega multiple predicted o/p aayega usme differnce kaun compare karega
+15.)erro aaya usme differnce kaun nikalega
+16. )to adjust weights a math eqn named"gradient descent"
+17.)epoc -->no of times ann will run mean that much time wieghts are adjusted and whole processing is done
+18.) batchsize is what size of data should be given at a time out of whole data
