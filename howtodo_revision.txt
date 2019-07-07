@@ -1,0 +1,11 @@
+7th july
+3hours a day till 7 day for data preprocesing
+1.labell encode 2.onehotencoder 3. feature scaling(7 hours each)
+SUPERVISD KE 4 EXAMPLES EACH(64 exmaples sabme exapmple differnt lene hai)(30 hourse hardly)(20 days)
+bina import kiye libraries kaise laye template ke through
+COMPUTER VISION(80 hours at least)(single sabse bada domain hai jo iot ke sath integrate hota hai)4
+**&&**&&*-->main work ----->(data scrape karana and data clean karna)(80%% time goes in it)
+then NLP--->(20`q hours )
+dl-->tensorflow,,pytorch(6 months atleast)(yaha aane ke liye aapko upar cv ke upar pura complete karne padega)
+me docker pe bhi kaam kar sakta hua amazon cloud pe bhi kaam kar saktaa hu..
+don't mention machine learning.
