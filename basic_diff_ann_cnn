@@ -1,0 +1,11 @@
+ann>--modification-->cnn
+tesnorflow->>modificatiion-->keras
+keras  has opetion it can use combination of (numpy+theano) or tensorflow
+cnn mostly us keras
+**CNN VS ANN
+->in cnn each hidden layer neuron should connect with all next neurons(compulsory)
+->we need gpu in cnn(vey much neccessary) no need in ann
+->forward propogation is input to output
+->back prop se input ke attribut me thoda change karte hai
+BEFORE DOING ANN WE NEED TO DOING ONE THING THAT MAKE TOGETHER CNN.
+for object detection atleast 10000 images 
